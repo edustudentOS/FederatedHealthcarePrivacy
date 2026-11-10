@@ -70,8 +70,7 @@ The Streamlit dashboard provides:
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd FederatedHealthcarePrivacy
+git clone https://github.com/edustudentOS/FederatedHealthcarePrivacy.git
 ```
 
 Create a virtual environment:
