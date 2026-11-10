@@ -1,0 +1,9 @@
+{
+    "model": "Logistic Regression",
+    "training_data": "Hospital 1 only",
+    "accuracy": 0.7303370786516854,
+    "precision": 0.7083333333333334,
+    "recall": 0.7727272727272727,
+    "f1_score": 0.7391304347826086,
+    "roc_auc": 0.7954545454545454
+}

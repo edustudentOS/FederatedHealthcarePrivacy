@@ -1,0 +1,22 @@
+FEDERATED HEALTHCARE PRIVACY PROJECT
+MODEL COMPARISON SUMMARY
+
+Best observed model: Federated Learning (Flower)
+
+Federated test metrics:
+Accuracy: 77.53%
+Precision: 75.00%
+Recall: 81.82%
+F1-score: 78.26%
+ROC-AUC: 82.93%
+
+Federated accuracy improvement over single-hospital baseline:
+4.50 percentage points
+
+Federated accuracy improvement over centralized model:
+3.37 percentage points
+
+Important limitation:
+This academic experiment uses the scikit-learn diabetes disease-progression
+dataset converted into binary labels. It is not a clinical diabetes diagnosis
+system. Results apply to this particular split and experiment.

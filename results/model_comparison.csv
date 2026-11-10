@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Single-Hospital Baseline,73.03,70.83,77.27,73.91,79.55
+Centralized Learning,74.16,71.43,79.55,75.27,82.63
+Federated Learning (Flower),77.53,75.0,81.82,78.26,82.93
